@@ -1,0 +1,9 @@
+ccxt
+openai
+python-dotenv
+schedule
+backtrader
+numpy
+pandas
+ta
+accelerate
