@@ -1,10 +1,11 @@
 ccxt
+schedule
 openai
 python-dotenv
-schedule
-backtrader
-numpy
 pandas
 ta
-accelerate
 transformers
+torch
+requests
+backtrader
+numpy
